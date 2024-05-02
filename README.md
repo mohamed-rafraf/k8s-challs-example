@@ -1,3 +1,10 @@
+
+# Kubernetes challenge serie
+
+NCSC'2023 consider the 1st tunisian CTF competition that have a whole Kubernetes Category! These are oriented for beginners/Intermediate users to consodilate their basic knowledge in Kubernetes!
+
+![](https://imgur.com/U69KQtM.png)
+
 ## Kubernetes: Secrets:
 In this challenge we get an IP and the author told us that he have a secret in the cluster! 
 ![](https://imgur.com/PCmO273.png)
